@@ -40,7 +40,7 @@ const Card = () => {
             Graphic Designer
           </h2>
 
-          <div className="flex gap-2 mt-[10px]">
+          <div className='flex gap-2 mt-[10px]'>
             <span className="text-[12px] px-2 py-1 bg-[#e4e4e4] rounded">
               Full-time
             </span>
